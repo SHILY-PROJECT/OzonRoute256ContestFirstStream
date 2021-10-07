@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ozon.CapitalizedWords", "Ozon.CapitalizedWords\Ozon.CapitalizedWords.csproj", "{7B61387E-67C0-4E7D-9098-E0B8EB66CCFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ozon.CountingCharacters", "Ozon.CountingCharacters\Ozon.CountingCharacters.csproj", "{41E57D2E-0C7D-43CC-95FE-2EBE726906F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ozon.CountingIPByRange", "Ozon.CountingIPByRange\Ozon.CountingIPByRange.csproj", "{6D41ABD3-3509-47A2-AC29-6422CF2773BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ozon.ComparisonRomanNumbers", "Ozon.ComparisonRomanNumbers\Ozon.ComparisonRomanNumbers.csproj", "{9FB75A57-1430-4B7B-ABDD-80992B6A1EF1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ozon.EvaluatingBooleanExpression", "Ozon.EvaluatingBooleanExpression\Ozon.EvaluatingBooleanExpression.csproj", "{7FEDCE60-D74B-41E6-B99B-06B4753735B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ozon.SalesmanDilemma", "Ozon.SalesmanDilemma\Ozon.SalesmanDilemma.csproj", "{73DB9363-8513-489B-BC56-6FD6563F92CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B61387E-67C0-4E7D-9098-E0B8EB66CCFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B61387E-67C0-4E7D-9098-E0B8EB66CCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B61387E-67C0-4E7D-9098-E0B8EB66CCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B61387E-67C0-4E7D-9098-E0B8EB66CCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E57D2E-0C7D-43CC-95FE-2EBE726906F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E57D2E-0C7D-43CC-95FE-2EBE726906F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E57D2E-0C7D-43CC-95FE-2EBE726906F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E57D2E-0C7D-43CC-95FE-2EBE726906F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D41ABD3-3509-47A2-AC29-6422CF2773BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D41ABD3-3509-47A2-AC29-6422CF2773BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D41ABD3-3509-47A2-AC29-6422CF2773BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D41ABD3-3509-47A2-AC29-6422CF2773BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB75A57-1430-4B7B-ABDD-80992B6A1EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB75A57-1430-4B7B-ABDD-80992B6A1EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB75A57-1430-4B7B-ABDD-80992B6A1EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB75A57-1430-4B7B-ABDD-80992B6A1EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FEDCE60-D74B-41E6-B99B-06B4753735B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEDCE60-D74B-41E6-B99B-06B4753735B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEDCE60-D74B-41E6-B99B-06B4753735B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEDCE60-D74B-41E6-B99B-06B4753735B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73DB9363-8513-489B-BC56-6FD6563F92CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DB9363-8513-489B-BC56-6FD6563F92CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DB9363-8513-489B-BC56-6FD6563F92CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DB9363-8513-489B-BC56-6FD6563F92CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5314A9B-B15C-4A10-A3D4-30EC5F749E3A}
+	EndGlobalSection
+EndGlobal
